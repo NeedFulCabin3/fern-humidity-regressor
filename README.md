@@ -1,4 +1,4 @@
-# fern-humidity-regressor
+# Fern Humidity Regressor
 
 > A machine learning utility that forecasts optimal watering intervals for indoor ferns using ambient room temperature and humidity sensor streams.
 
